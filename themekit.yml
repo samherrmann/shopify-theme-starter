@@ -1,0 +1,5 @@
+development:
+  password: ${THEMEKIT_PASSWORD}
+  theme_id: ${THEMEKIT_THEME_ID}
+  store: ${THEMEKIT_STORE}
+  directory: src

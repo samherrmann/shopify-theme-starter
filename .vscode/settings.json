@@ -1,0 +1,6 @@
+{
+  "javascript.preferences.quoteStyle": "single",
+  "files.associations": {
+    "*.liquid": "html"
+  }
+}
