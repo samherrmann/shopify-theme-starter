@@ -7,7 +7,7 @@ Theme Kit](https://shopify.github.io/themekit/commands/#new).
 
 1. Clone this project:
     ```
-    git clone https://github.com/samherrmann/shopify-theme-starter.git`
+    git clone https://github.com/samherrmann/shopify-theme-starter.git
     ```
 
 1. Install development dependencies:
